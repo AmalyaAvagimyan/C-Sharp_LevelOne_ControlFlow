@@ -121,7 +121,7 @@ namespace ControlFlowExercises
                     Console.WriteLine("Demerit points: " + demeritPoints);
                     Console.ReadLine();
             }
-        }
-    }
-}
+         }
+      }
+   }
 }
